@@ -4,5 +4,5 @@ This repository contains all the Embedded Systems laboratory experiments and ass
 
 ## Repository Structure
 
-📁 Lab
-📁 Assessments
+- 📁 Lab
+- 📁 Assessments
